@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > This is the modern Lightning Web Components version of the Dreamhouse sample application. If you are looking for the legacy Aura version, click [here](https://github.com/trailheadapps/dreamhouse-sfdx).
 
-![dreamhouse-logo](dreamhouse-logo.png)
+PILOTO 
 
 Dreamhouse is a sample application that demonstrates the unique value proposition of the Salesforce platform for building Employee Productivity and Customer Engagement apps.
 
